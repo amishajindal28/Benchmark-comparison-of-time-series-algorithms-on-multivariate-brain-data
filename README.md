@@ -1,6 +1,6 @@
 # Project repoistory for CS539 - Machine Learning 
 
-## Developed by Team 3 - Jocelyn Petitto, Shima Azizi, Kathleen Cachel, Amisha Jindal, and Alicia Howell
+## Website: https://sites.google.com/view/ml539-fnirs
 
 ### Environment requirements
 To run each algorithm's script, you must have the following packages: sklearn, sktime, statistics, numpy, pandas, time, sys, json, datetime, os, csv.
